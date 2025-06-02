@@ -1,5 +1,5 @@
 # The Task Master Prompt
-## copied from https://forum.cursor.com/t/task-master-prompt-agent-mode/39980
+## https://forum.cursor.com/t/task-master-prompt-agent-mode/39980
 
 The Task Master Prompt is a systematic way to guide an agent through a project from start to finish. It creates a clear record of every decision and milestone along the way, so you can always see what was done and why.
 
